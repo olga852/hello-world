@@ -1,4 +1,4 @@
-# hello-wold
+# hello-world
 
 Привет, меня зовут Ольга!
 
